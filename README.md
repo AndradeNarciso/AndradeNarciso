@@ -1,4 +1,5 @@
-# 👋 Hey there! I'm Emptybox
+# 👋 Hey there! I'm Andrade Narciso  
+(but most of my friends prefer to call me **Empty Box**)
 
 💡 I'm passionate about **solving real-world problems** through code and creative thinking.  
 I work mainly with **Java (Spring Boot)** and **JavaScript (Fastify)** — but honestly, if the stack isn't familiar... I’ll learn it faster than your Wi-Fi reconnects. ⚡  
@@ -6,7 +7,7 @@ I work mainly with **Java (Spring Boot)** and **JavaScript (Fastify)** — but h
 ---
 
 ### 🧠 Tech Stack
-- **Backend:** Java (Spring Boot), Node.js (Fastify)   
+- **Backend:** Java (Spring Boot), Node.js (Fastify)  
 - **Other stuff:** Docker, Git, Linux
 
 ---
@@ -16,8 +17,7 @@ I work mainly with **Java (Spring Boot)** and **JavaScript (Fastify)** — but h
 
 ---
 
-### 📬 Let’s connect
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/emptybox)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/your-link)
+### 📬 Let’s connect 
+📧 **Email:** [andradegregorio277@gmail.com](mailto:andradegregorio277@gmail.com)
 
 ---
