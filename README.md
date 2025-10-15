@@ -1,8 +1,8 @@
-# 👋 Hey there! I'm Andrade Narciso  
+#  Hey there! I'm Andrade Narciso  
 (but most of my friends prefer to call me **Empty Box**)
 
 💡 I'm passionate about **solving real-world problems** through code and creative thinking.  
-I work mainly with **Java (Spring Boot)** and **JavaScript (Fastify)** — but honestly, if the stack isn't familiar... I’ll learn it faster than your Wi-Fi reconnects. ⚡  
+I work mainly with **Java (Spring Boot)** and **JavaScript (Fastify)** — but honestly, if the stack isn't familiar... I’ll learn it faster than your Wi-Fi reconnects. 
 
 ---
 
