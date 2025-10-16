@@ -8,7 +8,7 @@ I work mainly with **Java (Spring Boot)** and **JavaScript (Fastify)** — but h
 
 ### 🧠 Tech Stack
 - **Backend:** Java (Spring Boot), Node.js (Fastify)  
-- **Other stuff:** Docker, Git, Linux
+- **Other stuff:** Docker and  Linux
 
 ---
 
