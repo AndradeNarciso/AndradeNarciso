@@ -1,23 +1,35 @@
-#  Hey there! I'm Andrade Narciso  
-(but most of my friends prefer to call me **Empty Box**)
+# 👋 Hey there! I'm Andrade Narciso  
+*(but most people just call me **Empty Box**)*
 
-💡 I'm passionate about **solving real-world problems** through code and creative thinking.  
-I work mainly with **Java (Spring Boot)** and **JavaScript (Fastify)** — but honestly, if the stack isn't familiar... I’ll learn it faster than your Wi-Fi reconnects. 
-
----
-
-### 🧠 Tech Stack
-- **Backend:** Java (Spring Boot), Node.js (Fastify)  
-- **Other stuff:** Docker and  Linux
+💡 Passionate about **solving real-world problems** through code and creative thinking.  
+I work mainly with **Java (Spring Boot)** and **JavaScript (Fastify)** — but honestly, if the stack isn’t familiar… I’ll learn it faster than your Wi-Fi reconnects.
 
 ---
 
-### 🌍 What I believe
-> Simplicity, logic, and persistence can fix (almost) anything.
+## 🧠 Tech Stack
+
+### **Languages & Frameworks**
+- **Java • Python • JavaScript**
+- **Spring Boot • Express / Fastify**
+
+### **Databases**
+- **MySQL • PostgreSQL**
+
+### **DevOps & Tools**
+- **Docker • Linux**
 
 ---
 
-### 📬 Let’s connect 
-📧 **Email:** [andradegregorio277@gmail.com](mailto:andradegregorio277@gmail.com)
+## 🌍 What I Believe  
+> *Simplicity, logic, and persistence can fix (almost) anything.*
 
 ---
+
+## 🚀 About Me  
+Passionate about **software architecture**, distributed systems, and **constant learning**.  
+Always exploring new ways to build reliable, scalable, and elegant backend solutions.
+
+---
+
+## 📬 Let’s Connect  
+📧 **Email:** andradegregorio277@gmail.com  
