@@ -10,13 +10,15 @@ I work mainly with **Java (Spring Boot)** and **JavaScript (Fastify)** — but h
 
 ### **Languages & Frameworks**
 - **Java • Python • JavaScript**
-- **Spring Boot • Express**
+- **Spring Boot • Express • Next.js**
+- **Flutter**
 
 ### **Databases**
 - **MySQL • PostgreSQL**
 
 ### **DevOps & Tools**
-- **Docker • Linux**
+- **Docker • Linux**  
+- Experience with monitoring, container orchestration and backend optimizations.
 
 ---
 
@@ -26,10 +28,12 @@ I work mainly with **Java (Spring Boot)** and **JavaScript (Fastify)** — but h
 ---
 
 ## About Me  
-Passionate about **software architecture**, distributed systems, and **constant learning**.  
-Always exploring new ways to build reliable, scalable, and elegant backend solutions.
+Passionate about **software architecture**, **distributed systems**, and crafting **simple solutions for complex problems**.  
+I believe in **clean code**, **continuous learning**, and **curiosity as the ultimate driver of growth**.
+
+> **"Build. Break. Learn. Repeat."**
 
 ---
 
 ## 📬 Let’s Connect  
-📧 **Email:** andradegregorio277@gmail.com  
+📧 **Email:** **andradegregorio277@gmail.com**
