@@ -10,7 +10,7 @@ I work mainly with **Java (Spring Boot)** and **JavaScript (Fastify)** — but h
 
 ### **Languages & Frameworks**
 - **Java • Python • JavaScript**
-- **Spring Boot • Express / Fastify**
+- **Spring Boot • Express **
 
 ### **Databases**
 - **MySQL • PostgreSQL**
