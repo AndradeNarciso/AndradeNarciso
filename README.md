@@ -2,7 +2,7 @@
 *(but most people just call me **Empty Box**)*
 
 Passionate about **solving real-world problems** through code and creative thinking.  
-I work mainly with **Java (Spring Boot)** and **JavaScript (Fastify)** — but honestly, if the stack isn’t familiar… I’ll learn it faster than your Wi-Fi reconnects.
+I work mainly with **Java (Spring Boot)** and **JavaScript (Express)** — but honestly, if the stack isn’t familiar… I’ll learn it faster than your Wi-Fi reconnects.
 
 ---
 
