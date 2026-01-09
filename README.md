@@ -16,9 +16,11 @@ I work mainly with **Java (Spring Boot)** and **JavaScript (Express)**. But hone
 ### **Databases**
 - **MySQL • PostgreSQL**
 
-### **DevOps & Tools**
-- **Docker • Linux**  
-- Experience with monitoring, container orchestration and backend optimizations.
+### DevOps & Tools
+- **Containers & OS:** Docker • Linux
+- **Monitoring & Observability:** Grafana • Prometheus
+- **Messaging:** RabbitMQ
+
 
 ---
 
