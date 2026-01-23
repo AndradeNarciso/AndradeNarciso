@@ -1,5 +1,5 @@
 #  Hey there! I'm Andrade Narciso  
-*(but most people just call me **Empty Box**)*
+*(but most friends just call me **Empty Box**)*
 
 Passionate about **solving real-world problems** through code and creative thinking.  
 I work mainly with **Java (Spring Boot)** and **JavaScript (Express)**. But honestly, if the stack isn’t familiar… I’ll learn it faster than your Wi-Fi reconnects.
