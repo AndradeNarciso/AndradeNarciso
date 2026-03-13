@@ -1,4 +1,4 @@
-#  Hey there! I'm Andrade Narciso  
+#  Hey there! I'm Andrade Narciso Antonio Gregorio  
 *(but most friends just call me **Empty Box**)*
 
 Passionate about **solving real-world problems** through code and creative thinking.  
