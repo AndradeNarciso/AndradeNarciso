@@ -10,7 +10,7 @@ I work mainly with **Java (Spring Boot)** and **JavaScript (Express)**. But hone
 
 ### **Languages & Frameworks**
 - **Java • Python • JavaScript**
-- **Spring Boot • Express • Next.js**
+- **Spring Boot • Express • Angular.js**
 - **Flutter**
 
 ### **Databases**
