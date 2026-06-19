@@ -38,4 +38,4 @@ I believe in **clean code**, **continuous learning**, and **curiosity as the ult
 ---
 
 ## 📬 Let’s Connect  
-📧 **Email:** **andrade@piripiri.chat**
+📧 **Email:** **andradegregorio277@gmail.com**
